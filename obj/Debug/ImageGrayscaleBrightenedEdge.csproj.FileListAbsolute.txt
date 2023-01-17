@@ -1,0 +1,11 @@
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\bin\Debug\ImageGrayscaleBrightenedEdge.exe.config
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\bin\Debug\ImageGrayscaleBrightenedEdge.exe
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\bin\Debug\ImageGrayscaleBrightenedEdge.pdb
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.csproj.AssemblyReference.cache
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.csproj.SuggestedBindingRedirects.cache
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.Form1.resources
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.Properties.Resources.resources
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.csproj.GenerateResource.cache
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.csproj.CoreCompileInputs.cache
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.exe
+Z:\_DocData\VS-Source-cs\CS\実用的なもの\image-grayscale-brightened-edge\obj\Debug\ImageGrayscaleBrightenedEdge.pdb

@@ -1,0 +1,11 @@
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.SuggestedBindingRedirects.cache
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\ImageGrayscaleBrightenedEdge.Form1.resources
+Z:\暫定プロジェクト\WindowsFormsApp15\bin\Debug\ImageGrayscaleBrightenedEdge.exe.config
+Z:\暫定プロジェクト\WindowsFormsApp15\bin\Debug\ImageGrayscaleBrightenedEdge.exe
+Z:\暫定プロジェクト\WindowsFormsApp15\bin\Debug\ImageGrayscaleBrightenedEdge.pdb
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\ImageGrayscaleBrightenedEdge.Properties.Resources.resources
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\ImageGrayscaleBrightenedEdge.exe
+Z:\暫定プロジェクト\WindowsFormsApp15\obj\Debug\ImageGrayscaleBrightenedEdge.pdb
